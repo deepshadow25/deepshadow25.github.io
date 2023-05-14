@@ -131,7 +131,7 @@
         <span class="nav__sub-title">DB</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "DB" %}
+                    {% if category[0] == "MySQL" %}
                         <li><a href="/categories/db" class="">MySQL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
@@ -140,6 +140,13 @@
                 {% for category in site.categories %}
                     {% if category[0] == "Programmers SQL" %}
                         <li><a href="/categories/programmers-sql" class="">프로그래머스 SQL ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Data" %}
+                        <li><a href="/categories/data" class=""> 데이터 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
