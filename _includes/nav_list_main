@@ -168,8 +168,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Physics" %}
-                        <li><a href="/categories/math" class=""> 물리학 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Phys" %}
+                        <li><a href="/categories/phys" class=""> 물리학 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
