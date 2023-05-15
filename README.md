@@ -4,4 +4,4 @@ For my own studying tech blog.
 
 원본 테마 : [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
-블로그 제작시 참고한 블로그 : [식빵맘 님의 Github Blog](https://ansohxxn.github.io/)
+블로그 커스텀용으로 참고한 블로그 : [식빵맘 님의 Github Blog](https://ansohxxn.github.io/)
