@@ -12,5 +12,5 @@ sidebar_main: true
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansohxxn&repo=coding-test)](https://github.com/ansohxxn/coding-test)-->
 
-{% assign posts = site.categories.baekjoon %}
+{% assign posts = site.categories.Baekjoon %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
