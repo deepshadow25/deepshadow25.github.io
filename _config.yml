@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+<<<<<<< HEAD
 locale                   : "ko-KR"
 title                    : "For Better Life"
 title_separator          : "-"
@@ -22,6 +23,15 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "shadow"
 description              : "For Better Life."
 url                      : "https://deepshadow25.github.io"  #"https://mmistakes.github.io"
+=======
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+>>>>>>> parent of 8f56e551 (Update _config.yml)
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/deepshadow25/deepshadow25.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,7 +114,11 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Seongyeon"
+=======
+  name             : "Your Name"
+>>>>>>> parent of 8f56e551 (Update _config.yml)
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm contribute to make a better life and world for developing myself"
   location         : "Republic of Korea"
@@ -112,43 +126,43 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:deepshadow25@kakao.com"
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-   # - label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-   # - label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/deepshadow25"
-   # - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-  #  - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-  # - label: "Facebook"
-   #   icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/deepshadow25"
-#    - label: "GitLab"
- #     icon: "fab fa-fw fa-gitlab"
       # url:
-  #  - label: "Bitbucket"
-   #   icon: "fab fa-fw fa-bitbucket"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
-  #  - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url:
 
 
