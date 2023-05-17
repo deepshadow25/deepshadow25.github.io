@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Category"
-    url: "/categories/"
+    url: /categories/
   - title: "Tag"
     url: /tags/
   - title: "Post by Year"
-    url: "/year-archive/"
+    url: /year-archive/
