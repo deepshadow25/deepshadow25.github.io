@@ -23,7 +23,7 @@ name                     : "shadow"
 description              : "For Better Life."
 url                      : "https://deepshadow25.github.io"  #"https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "deepshadow25/comments" #"https://github.com/deepshadow25/deepshadow25.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "deepshadow25/deepshadow25.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "더 나은 세상을 꿈꾸는 AI 개발자" # overrides the website title displayed in the masthead, use " " for no title
