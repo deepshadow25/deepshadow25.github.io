@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "For Better Life"
 title_separator          : "-"
 subtitle                 : "I'm contribute to make a better life and world for developing myself" # site tagline that appears below site title in masthead
