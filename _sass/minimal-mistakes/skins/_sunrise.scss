@@ -9,8 +9,8 @@ $text-color: #000 !default;
 $muted-text-color: $dark-gray !default;
 $primary-color: #fc3a52 !default;
 $border-color: mix(#000, $background-color, 20%) !default;
-$code-background-color: mix(#fff, $background-color, 10%) !default;  /* default : #fff, 20% */
-$code-background-color-dark: mix(#000, $background-color, 20%) !default; /* default : #000 , 10% */
+$code-background-color: mix(#fff, $background-color, 10%); /* !default;   default : #fff, 20% */
+$code-background-color-dark: mix(#000, $background-color, 20%); /* !default; /* default : #000 , 10% */
 $form-background-color: mix(#fff, $background-color, 15%) !default;
 $footer-background-color: #f9b248 !default;
 $link-color: mix(#000, $primary-color, 10%) !default;
