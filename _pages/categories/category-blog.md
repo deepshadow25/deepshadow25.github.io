@@ -1,5 +1,5 @@
 ---
-title: "Blog, 일상 등"
+title: "Blog, 일상"
 layout: archive
 permalink: categories/blog
 author_profile: true
