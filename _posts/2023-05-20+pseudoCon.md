@@ -63,4 +63,67 @@ Text-to-Image 응용사례 및 한계점
 
 
 
-## 3. 
+## 3. New Paradigm in NLP
+
+<!-- 강연자 : 이정훈 (Allganize Korea) -->
+
+GPT의 Instruction - 양자역학에 대해 설명해 줘?? vs (조건 추가)
+
+Instruction을 어떻게 구성할지가 AI Prompt Engineer의 중요한 역량일 것이라 생각
+
+CoT (선택 방식) : 출근하는 방법 중 더 빠른 건 무엇입니까? -> 
+
+Prompt Engineering, Prompt Market (ChatGPT Prompt Markets)
+
+단점 
+- Hallucination 심함
+
+GPT4 
+Multi Modal
+성능이 안 좋은 Task를 찾는 데에 있어 아직 약점이 있음
+
+LangChain
+- ChatModels
+- Embeddings : 유사한 텍스트 탐색 등에 사용
+
+
+## 4. 논문으로 알아보는 추천시스템 트렌드
+
+<!-- 강연자 : 이경찬 (하나투어) -->
+
+논문 리뷰를 통해 알게 된 추천 시스템 발전 과정
+
+GNN (Graph Neural Network)
+
+추천시스템의 기본 요소
+
+기업 - 유저의 체류시간을 늘릴 수 있음
+
+유저 - 입맛대로 컨텐츠를 볼 수 있음
+
+User, Item, Interaction (평점, 조회수, 좋아요, 구독자수 등)
+
+딥러닝 기반 추천 모델 -> 단순 내적은 성능을 저해할 수 있다. 그 한계를 극복할 수 있는 새로운 대안으로 등장
+
+동적 선호도 반영 (2016)
+
+GNN Based Recommendation (2018) - 고차원 연결성에 강점
+
+동향 : 더 멀리 있는 신호를 포착하고, 더 최신 신호를 반영할 수 있는 구조와 데이터
+
+확대 되어가는 데이터, 아키텍쳐
+
+
+## 5. 강화학습을 활영환 산업 최적화 문제 도전기
+
+<!-- 강연자 : 임용섭 -->
+
+
+### 6. 파이썬의 비밀
+
+<!-- 강연자 : 김광일 -->
+
+
+### 7. SSL
+
+강연자가 학부 2학년생임... <!-- 이게 재능인가?? -->
