@@ -1,0 +1,67 @@
+--- 
+title : "가짜연구소 6th PseudoCon 참여 후기"
+
+categories : 
+  - Conference
+tags :
+  - Conference
+  - Blog
+date : 2023-05-20
+last-modified-date : 2022-05-21
+---
+
+지인의 추천을 받아 다녀왔던 PseudoCon
+
+사흘만에 다시 가는 종로였다.
+
+![](https://private-user-images.githubusercontent.com/115054681/239749690-f52b2233-7e51-4d43-ae10-7ba7e2bf5785.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NjgxNjE4LCJuYmYiOjE2ODQ2ODEzMTgsInBhdGgiOiIvMTE1MDU0NjgxLzIzOTc0OTY5MC1mNTJiMjIzMy03ZTUxLTRkNDMtYWUxMC03YmE3ZTJiZjU3ODUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MjFUMTUwMTU4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDIwMDdkODc2ZDYxNDEyYjBiYzQxYzMwNGZjNWNmOWQxNTc0OWE4ZDJmNjAyZmJkNTYzMjgwZTUxZjIwOTM2ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ibsDvAoZeM0Eov11dSZzxrDrL1mBmb6fhcOIJ0CkV-Q)
+
+건물 안에서 찍은 포스터
+
+Supex 홀을 가기 위해선 4층으로 올라가야 했다.
+
+![출입증](https://private-user-images.githubusercontent.com/115054681/239749691-9e93ca93-7289-4775-857f-663bd1eca7e0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NjgxNjE4LCJuYmYiOjE2ODQ2ODEzMTgsInBhdGgiOiIvMTE1MDU0NjgxLzIzOTc0OTY5MS05ZTkzY2E5My03Mjg5LTQ3NzUtODU3Zi02NjNiZDFlY2E3ZTAuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MjFUMTUwMTU4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9N2JjZDViZmUxYzc5NjA2YTY4MjJmMDk0NzAwNDY1YTY5OTQ3ZTg5OGNhYzIwZWQ0ZDZkYWZmNDdjYzllZGIwNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.JSlCpEXIA7LaFBxYbdIxyzoB_NYJuCYqOWhU9hjVK3Y)
+
+출입증~
+
+이미 인쇄가 다 된 출입증과 현장에서 이름/소속을 써주는 출입증으로 나뉘던데
+
+구글폼으로 신청했어서 그런가? 나는 현장에서 스탭분이 써주는 출입증을 받게 되었다.
+
+![](https://private-user-images.githubusercontent.com/115054681/239749682-027e9b03-552f-4df2-9fd5-35d11455b79a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NjgxNjE4LCJuYmYiOjE2ODQ2ODEzMTgsInBhdGgiOiIvMTE1MDU0NjgxLzIzOTc0OTY4Mi0wMjdlOWIwMy01NTJmLTRkZjItOWZkNS0zNWQxMTQ1NWI3OWEuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MjFUMTUwMTU4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGEzMmUxZGE1NThkOTcwNWI4MGY2Y2Q2YTYxMGM4NTc5MDZhMmE0ODA1Y2I2YzAyZTU2ZDVhNGQ4ZmY0YjE2YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.DtIULF-ci1TYKO69jUr7pMlqfUBZD0Oo6NMnnbzqMtk)
+
+2시부터 4시 반까지는 이렇게 여러 연사분들의 강의를 들었는데
+
+Notion을 통해 자료를 바로바로 확인할 수 있었어서 좋았다.
+
+대부분의 강의가 현업 실무에서 쓰이는 최신의 모델, 아키텍쳐, 기술인데 
+
+이런 기술을 연구하고 있다는 것에 아직 갈 길이 멀다는 것을 깨달았지만
+
+동시에 나도 저렇게 연구해 보고 싶다. 공부해 보고 싶다는 생각을 하였다.
+
+
+![](https://private-user-images.githubusercontent.com/115054681/239750244-5da3d590-cd35-4942-8e36-a6334159b7f8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NjgyMTMyLCJuYmYiOjE2ODQ2ODE4MzIsInBhdGgiOiIvMTE1MDU0NjgxLzIzOTc1MDI0NC01ZGEzZDU5MC1jZDM1LTQ5NDItOGUzNi1hNjMzNDE1OWI3ZjguanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MjFUMTUxMDMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGU1NzA4M2QwNzBjNjJiZWMyN2MzODhmYjNiYWM2MWNlMWMwNGUwYjg0OGRiMDRhYjM1MGExNDc3ZTVlYmM5OSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.UD_hIswHbbJrBGB8GTkpMesGq1dAM1n3GzNh8wUslmw)
+
+약 150여 분의 마라톤 강연이 끝나고
+
+바깥에서 여러 부스가 진행되었는데, 한 부스에서 진행하던 경품 행사에서 무려 2등에 당첨되었다!
+
+같이 갔던 지인들 중에서도 한명이 당첨되는거 보고 운 좋은 녀석이라 생각했는데
+
+나도 당첨될 줄은 몰랐다.
+
+
+이후 여러 사람들과 이야기하며 네트워킹 시간을 가졌는데
+
+'내가 해온 것이 헛된 게 아니구나, 하지만 더 열심히 나의 스킬을 연마하고, 계속 공부해야겠다.'는 결심을 할 수 있던 그런 행사였다.
+
+
+![](https://private-user-images.githubusercontent.com/115054681/239750285-64eca0ca-34d4-42ca-9dfb-6d68a9425c5f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0NjgyMTMyLCJuYmYiOjE2ODQ2ODE4MzIsInBhdGgiOiIvMTE1MDU0NjgxLzIzOTc1MDI4NS02NGVjYTBjYS0zNGQ0LTQyY2EtOWRmYi02ZDY4YTk0MjVjNWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MjFUMTUxMDMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9N2E3NTNkYTNiZTcwNjZlNWVlN2M4MjE2MzNhZmJmZmExYWRkODg4ZDY0NGNjNWQ4NDIzYjAzMDQ2NmYxMTEyNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.pQI_bDwN_8JbR6B23KsqRERz_NFqWo6W9fceuSDqkxs)
+
+마무리는 왕십리 최고의 장어구이 맛집 "김치찌개" 에서 김치찌개를 먹고 퇴근
+
+
+마지막으로, 오늘 연등회가 있던 걸 나중에 알게 되어 가지 못 했던 것이 조금 아쉬웠다.
+
+[맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
