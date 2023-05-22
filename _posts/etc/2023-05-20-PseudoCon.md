@@ -15,13 +15,13 @@ last-modified-date : 2022-05-21
 
 사흘만에 다시 가는 종로였다.
 
-![20230520_133420](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/677eb117-1a30-4af7-9c8a-ef6508f69b33){: width="60%"", height="60%""}
+![20230520_133420](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/677eb117-1a30-4af7-9c8a-ef6508f69b33.png){: width="60%"", height="60%""}
 
 건물 안에서 찍은 포스터
 
 Supex 홀을 가기 위해선 4층으로 올라가야 했다.
 
-![20230520_133727](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/2e9f82a7-171a-4a06-b370-43f673629c9d){: width = "60%"", height = "60%""}
+![20230520_133727](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/2e9f82a7-171a-4a06-b370-43f673629c9d.png){: width = "60%"", height = "60%""}
 
 출입증~
 
@@ -29,7 +29,7 @@ Supex 홀을 가기 위해선 4층으로 올라가야 했다.
 
 구글폼으로 신청했어서 그런가? 나는 현장에서 스탭분이 써주는 출입증을 받게 되었다.
 
-![20230520_150701](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/1e0533ce-bee6-4f81-88f5-8157ed1da8d5){: width = "60%"", height = "60%""}
+![20230520_150701](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/1e0533ce-bee6-4f81-88f5-8157ed1da8d5.png){: width = "60%"", height = "60%""}
 
 2시부터 4시 반까지는 이렇게 여러 연사분들의 강의를 들었는데
 
@@ -42,7 +42,7 @@ Notion을 통해 자료를 바로바로 확인할 수 있었어서 좋았다.
 동시에 나도 저렇게 연구해 보고 싶다. 공부해 보고 싶다는 생각을 하였다.
 
 
-![20230520_164236](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/96b2db94-320e-45d4-8d01-baef459cf5f5){: width = "60%"", height = "60%""}
+![20230520_164236](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/96b2db94-320e-45d4-8d01-baef459cf5f5.png){: width = "60%"", height = "60%""}
 
 
 약 150여 분의 마라톤 강연이 끝나고
@@ -59,7 +59,7 @@ Notion을 통해 자료를 바로바로 확인할 수 있었어서 좋았다.
 '내가 해온 것이 헛된 게 아니구나, 하지만 더 열심히 나의 스킬을 연마하고, 계속 공부해야겠다.'는 결심을 할 수 있던 그런 행사였다.
 
 
-![20230520_184723](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/138fb644-844e-4189-844e-b5490f18795c){: width = "60%"", height = "60%""}
+![20230520_184723](https://github.com/deepshadow25/blog_image_uploading/assets/115054681/138fb644-844e-4189-844e-b5490f18795c.png){: width = "60%"", height = "60%""}
 
 마무리는 왕십리 최고의 장어구이 맛집 "김치찌개" 에서 김치찌개를 먹고 퇴근
 
