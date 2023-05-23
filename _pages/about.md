@@ -10,7 +10,6 @@ toc: true
 
 **더 나은 세상을 꿈꾸는** 주니어 AI / 데이터 개발자 이성연입니다.
 
-![증명사진_modified.png](../assets/images/증명사진_modified.png)
 
 ### Contact.
 
@@ -37,16 +36,16 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 # Skills.
 
-Main  Sub
+<span style="color:red">Main</sapn>  Sub
 
-| Language | Python, Scilab, Matlab, R, HTML/CSS, Kotlin, Java |
+| Language | <span style="color:red">Python</span> Scilab Matlab R HTML/CSS Kotlin Java |
 | --- | --- |
-| Framework, Module | Pytorch, Tensorflow, Keras, Numpy, Pandas, Scikit-Learn,  Maxima, Flask |
-| Visualization | OpenCV (Python), Matplotlib, Seaborn, Tableau |
-| IDE | Google Colab, Visual Studio Code, Jupyter Notebook, RStudio, Android Studio |
-| Git | Github, Git |
-| Database | MySQL |
-| etc | Slack, Notion, HuggingFace, PapersWithCode, AWS |
+| Framework, Module | <span style="color:red">Pytorch Tensorflow Keras Numpy Pandas Scikit-Learn</span>  Maxima Flask |
+| Visualization | <span style="color:red">OpenCV (Python) Matplotlib Seaborn</span> Tableau |
+| IDE | <span style="color:red">Google-Colab Visual-Studio-Code Jupyter-Notebook</span> RStudio Android Studio |
+| Git | ><span style="color:red">Github</span> Git |
+| Database | <span style="color:red">MySQL</span> |
+| etc | <span style="color:red">Slack Notion HuggingFace PapersWithCode</span> AWS |
 
 ---
 
@@ -56,7 +55,9 @@ Main  Sub
 
 # C**ertificate**
 
-Tech ****Others **|**  ADSP ****중등정교사자격증 2급 (물리)
+<span style="color:red">Tech</sapn>  Others
+
+<span style="color:red">ADsP</sapn>  중등정교사자격증-2급(물리)
 
 # Education
 
@@ -64,77 +65,36 @@ Tech ****Others **|**  ADSP ****중등정교사자격증 2급 (물리)
 
 # Tech Education
 
-2023.05 ~ [진행중]
-
-**6월 프리온보딩 데이터 챌린지**
-
-- Tableau를 이용한 데이터 시각화
-
-원티드
-
-2023.05 ~ [진행중]
-
-**6월 프리온보딩 백엔드 챌린지**
-
-- Java, JVM, GC, 스레드 동기화
-
-원티드
-
-2023.05
-
-**R언어 통계활용으로 논문 작성하기 (심화)**
-
-- 통계적 데이터 분석 이론 및 데이터 수집
-- KOSIS, MDIS, 날씨마루, Titanic 분석 실습
-
-국립중앙도서관
-
-2023.04 ~ 2023.05
-
-**너와 나의 챗GPT**
-
-- 프롬프트 엔지니어링 용어 정리, 팁 습득
-- 프롬프트 AI를 활용한 서비스 기획
-    - 프롬프트 AI 및 이미지 생성 모델 실습
-
-멋쟁이사자처럼
-
-2023.04 ~ 2023.04
-
-**R언어 통계활용으로 논문 작성하기 (입문)**
-
-- R언어 기초, R 데이터 핸들링
-
-국립중앙도서관
-
-2022.10 ~ 2023.04
-
-**딥러닝 부트캠프  [ 4기 ]**
-
-- AI 및 딥러닝 엔지니어, 연구자 양성 과정
-- Python 및 데이터 분석 라이브러리 (Pandas, Numpy, Sklearn 등)
-- Matplotlib, Seaborn, FastEDA 등 데이터 시각화 라이브러리
-- 데이터 수집 및 마이닝 - 웹 크롤링, 데이터 전처리
-- CNN, YOLO, R-CNN 등 CV 딥러닝 모델 이론 학습, 논문 리뷰 및 프로젝트
-- RNN, LSTM, GRU, Attention, Transformer 등 NLP 딥러닝 모델 이론 학습 및 프로젝트
-- 음성 데이터 개론, 음성인식 및 음성합성 실습
-- Hyperparameter Tuning, Confusion Matrix 등 모델 실습 적용
-- Kaggle 대회 출전 (동메달 1, 1등 1)
-
-알파코캠퍼스
-
-고용노동부
-
-2016.03 ~ 2016.06
-
-**전산물리학  (안재석 교수)**
-
-- Scilab 언어를 통한 수치 연산 실습
-- Maxima 라이브러리를 통한 기호 연산 실습
-- 선형 연립방정식, 비선형방정식, 미분방정식 등의 예제 풀이
-- 문제 탐색 후 풀이를 통한 프로젝트 진행
-
-부산대학교
+| 2023.05 ~ [진행중]  | **6월 프리온보딩 데이터 챌린지**  | 원티드 |
+| --- | --- | --- |
+|  | - Tableau를 이용한 데이터 시각화 |  |
+| 2023.05 ~ [진행중] | **6월 프리온보딩 백엔드 챌린지** | 원티드 |
+|  | - Java, JVM, GC, 스레드 동기화 |  |
+| 2023.05 | **R언어 통계활용으로 논문 작성하기 (심화)** | 국립중앙도서관 |
+|  | - 통계적 데이터 분석 이론 및 데이터 수집 |  |
+| | - KOSIS, MDIS, 날씨마루, Titanic 분석 실습 | |
+| 2023.04 ~ 2023.05 | **너와 나의 챗GPT** | 멋쟁이사자처럼 |
+|  | - 프롬프트 엔지니어링 용어 정리, 팁 습득 |  |
+|  | - 프롬프트 AI를 활용한 서비스 기획 |  |
+|  | - 프롬프트 AI 및 이미지 생성 모델 실습 |  |
+| 2023.04 ~ 2023.04 | **R언어 통계활용으로 논문 작성하기 (입문)** | 국립중앙도서관 |
+|  | - R언어 기초, R 데이터 핸들링 |  |
+| 2022.10 ~ 2023.04 | **딥러닝 부트캠프  [ 4기 ]** | 알파코캠퍼스 |
+|  | - AI 및 딥러닝 엔지니어, 연구자 양성 과정 | 고용노동부 |
+|  | - Python 및 데이터 분석 라이브러리 (Pandas, Numpy, Sklearn 등) |  |
+|  | - Matplotlib, Seaborn, FastEDA 등 데이터 시각화 라이브러리 |  |
+|  | - 데이터 수집 및 마이닝 - 웹 크롤링, 데이터 전처리 |  |
+|  | - CNN, YOLO, R-CNN 등 CV 딥러닝 모델 이론 학습, 논문 리뷰 및 프로젝트 |  |
+|  | - RNN, LSTM, GRU, Attention, Transformer 등 NLP 딥러닝 모델 이론 학습 및 프로젝트 |  |
+|  | - 음성 데이터 개론, 음성인식 및 음성합성 실습 |  |
+|  | - Hyperparameter Tuning, Confusion Matrix 등 모델 실습 적용 |  |
+|  | - MySQL 및 AWS, Flask 기초 학습, Github 등 사용법 숙지 |  |
+|  | - Kaggle 대회 출전 (동메달 1, 1등 1) |  |
+| 2016.03 ~ 2016.06 | **전산물리학  (안재석 교수)** | 부산대학교 | 
+|  | - Scilab 언어를 통한 수치 연산 실습 |  |
+|  | - Maxima 라이브러리를 통한 기호 연산 실습 |  |
+|  | - 선형 연립방정식, 비선형방정식, 미분방정식 등의 예제 풀이 |  |
+|  | - 문제 탐색 후 풀이를 통한 프로젝트 진행 |  |
 
 # Outside Activities
 
@@ -150,8 +110,8 @@ Tech ****Others **|**  ADSP ****중등정교사자격증 2급 (물리)
 
 # Award
 
-- ****Kaggle [1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)** (🥉 **Bronze**)
-- ****Kaggle [Counting and categorizing vehicles in surveillance](https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance/overview) (1위, 20만원 수상)**
+- **Kaggle [1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)** (🥉 **Bronze**)
+- **Kaggle [Counting and categorizing vehicles in surveillance](https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance/overview) (1위, 20만원 수상)**
 - 알파코 딥러닝 부트캠프 4기 **실무프로젝트 우수 팀**
 - 알파코 딥러닝 부트캠프 4기 **객체인식 프로젝트 우수 팀** & **태도우수 교육생**
 - 알파코 딥러닝 부트캠프 4기 **텍스트마이닝 프로젝트 우수 팀**
@@ -159,15 +119,11 @@ Tech ****Others **|**  ADSP ****중등정교사자격증 2급 (물리)
 
 # Career
 
-- 2019. 05 ~ 2020. 02 발안중학교 교사 
+2019. 05 ~ 2020. 02 발안중학교 교사 
+
 [과학교과, 1학년 담임업무, 방송반 관리, 학생 봉사활동 업무 등 담당]
 
-<aside>
-💡 긴글버전 자기소개서를 추가로 첨부합니다.
 
-[저를 소개합니다 [긴글]](https://www.notion.so/4a3904a1e377479eb2199bb78718ef0e)
-
-</aside>
 
 <aside>
 🥰 확인해 주셔서 감사드립니다.
