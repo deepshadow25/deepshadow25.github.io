@@ -66,8 +66,9 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 # Tech Education
 
-| 2023.05 ~ [진행중]  | **6월 프리온보딩 데이터 챌린지**  | 원티드 |
+| 기간 | 교육명 및 상세 내용 | 주관기관 |
 | --- | --- | --- |
+| 2023.05 ~ [진행중]  | **6월 프리온보딩 데이터 챌린지**  | 원티드 |
 |  | - Tableau를 이용한 데이터 시각화 |  |
 | 2023.05 ~ [진행중] | **6월 프리온보딩 백엔드 챌린지** | 원티드 |
 |  | - Java, JVM, GC, 스레드 동기화 |  |
@@ -99,8 +100,9 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 # Outside Activities
 
-| 2023. 05. 23 | AI연구원으로 일하는 법  | Seminar | 모두의연구소 |
+| 기간 | 활동명 | 활동종류 | 주관기관 |
 | --- | --- | --- | --- |
+| 2023. 05. 23 | AI연구원으로 일하는 법  | Seminar | 모두의연구소 |
 | 2023. 05. 20 | 6th Pseudo-Con | Conference | 가짜연구소 |
 | 2023. 05. 12 | AI EXPO KOREA 2023 | Conference | 한국인공지능협회 |
 | 2023. 05. 06 ~   [ 진행중 ]  | 취준컴퍼니 5기 | Program | 로켓펀치 |
