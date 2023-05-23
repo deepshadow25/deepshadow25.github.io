@@ -7,6 +7,7 @@ layout : single
 last_modified_date: 2023-05-24
 toc: true
 ---
+<!-- Notion 내보내기 : A3, 크기비율 90, PDF로 내보내기 -->
 
 **더 나은 세상을 꿈꾸는** 주니어 AI / 데이터 개발자 이성연입니다.
 
