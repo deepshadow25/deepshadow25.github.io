@@ -130,8 +130,9 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 <aside>
 🥰 확인해 주셔서 감사드립니다.
-이력서에 대해 문의사항이 있으시다면 **이메일**로 문의 바랍니다. 감사합니다.
+
+  이력서에 대해 문의사항이 있으시다면 **이메일**로 문의 바랍니다. 감사합니다.
 
 </aside>
 
-[맨 위로 가기](https://www.notion.so/SeongYeon-Rhee-f6b0ab8024674ce09852b10a6bd14ba7)
+[맨 위로 가기](https://deepshadow25.github.io/about/#contact)
