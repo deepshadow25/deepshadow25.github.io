@@ -38,9 +38,9 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 # Skills.
 
 <span style="color:red">Main</span>  Sub
-
-| Language | <span style="color:red">Python</span> Scilab Matlab R HTML/CSS Kotlin Java |
+| Area | Tools |
 | --- | --- |
+| Language | <span style="color:red">Python</span> Scilab Matlab R HTML/CSS Kotlin Java |
 | Framework, Module | <span style="color:red">Pytorch Tensorflow Keras Numpy Pandas Scikit-Learn</span>  Maxima Flask |
 | Visualization | <span style="color:red">OpenCV (Python) Matplotlib Seaborn</span> Tableau |
 | IDE | <span style="color:red">Google-Colab Visual-Studio-Code Jupyter-Notebook</span> RStudio Android Studio |
