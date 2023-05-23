@@ -38,6 +38,7 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 # Skills.
 
 <span style="color:red">Main</span>  Sub
+
 | Area | Tools |
 | --- | --- |
 | Language | <span style="color:red">Python</span> Scilab Matlab R HTML/CSS Kotlin Java |
