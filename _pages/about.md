@@ -37,7 +37,7 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 # Skills.
 
-<span style="color:red">Main</sapn>  Sub
+<span style="color:red">Main</span>  Sub
 
 | Language | <span style="color:red">Python</span> Scilab Matlab R HTML/CSS Kotlin Java |
 | --- | --- |
@@ -111,12 +111,12 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 
 # Award
 
-- **Kaggle [1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)** (🥉 **Bronze**)
-- **Kaggle [Counting and categorizing vehicles in surveillance](https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance/overview) (1위, 20만원 수상)**
-- 알파코 딥러닝 부트캠프 4기 **실무프로젝트 우수 팀**
-- 알파코 딥러닝 부트캠프 4기 **객체인식 프로젝트 우수 팀** & **태도우수 교육생**
-- 알파코 딥러닝 부트캠프 4기 **텍스트마이닝 프로젝트 우수 팀**
-- 알파코 딥러닝 부트캠프 4기 **전 기간 개근 (기수 내 유일)**
+- **Kaggle [1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection)** (🥉 <span style="color:orange">**Bronze**</span>)
+- **Kaggle [Counting and categorizing vehicles in surveillance](https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance/overview) <span style="color:orange">(1위, 20만원 수상)</span>**
+- 알파코 딥러닝 부트캠프 4기 <span style="color:orange">**실무프로젝트 우수 팀** </span>
+- 알파코 딥러닝 부트캠프 4기 <span style="color:orange">**객체인식 프로젝트 우수 팀** </span> & <span style="color:orange">**태도우수 교육생**</span>
+- 알파코 딥러닝 부트캠프 4기 <span style="color:orange">**텍스트마이닝 프로젝트 우수 팀** </span>
+- 알파코 딥러닝 부트캠프 4기 <span style="color:orange">**전 기간 개근 (기수 내 유일)** </span>
 
 # Career
 
