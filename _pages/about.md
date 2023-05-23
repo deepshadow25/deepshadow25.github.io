@@ -44,7 +44,7 @@ Blog (Velog) : [https://velog.io/@deepshadow](https://velog.io/@deepshadow)
 | Framework, Module | <span style="color:red">Pytorch Tensorflow Keras Numpy Pandas Scikit-Learn</span>  Maxima Flask |
 | Visualization | <span style="color:red">OpenCV (Python) Matplotlib Seaborn</span> Tableau |
 | IDE | <span style="color:red">Google-Colab Visual-Studio-Code Jupyter-Notebook</span> RStudio Android Studio |
-| Git | ><span style="color:red">Github</span> Git |
+| Git | <span style="color:red">Github</span> Git |
 | Database | <span style="color:red">MySQL</span> |
 | etc | <span style="color:red">Slack Notion HuggingFace PapersWithCode</span> AWS |
 
