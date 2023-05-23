@@ -10,7 +10,7 @@ toc: true
 
 **더 나은 세상을 꿈꾸는** 주니어 AI / 데이터 개발자 이성연입니다.
 
-![증명사진_modified.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be153038-0067-4196-bd2c-38f5863b58ec/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_modified.png)
+![증명사진_modified.png](../assets/images/증명사진_modified.png)
 
 ### Contact.
 
