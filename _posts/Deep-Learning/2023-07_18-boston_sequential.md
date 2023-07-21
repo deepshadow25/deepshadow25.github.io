@@ -7,13 +7,13 @@ categories:
 tags:
   - Machine
   - Deep-Learning
-  - Mask R-CNN
+  - Regression
 
 toc: true
 toc_sticky: true
 
-date: 2023-06-12
-last_modified_at: 2023-06-23
+date: 2023-07-18
+last_modified_at: 2023-07-19
 ---
 
 
