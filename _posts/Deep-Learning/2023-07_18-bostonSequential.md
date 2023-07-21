@@ -2,10 +2,10 @@
 title:  "딥러닝 Sequential 회귀분석 예측예제 (feat. 보스턴 집값예측)" 
 
 categories:
-  - ML
+  - machine
 
 tags:
-  - Machine
+  - Machine-Learning
   - Deep-Learning
   - Regression
 
