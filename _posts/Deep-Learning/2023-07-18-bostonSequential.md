@@ -17,6 +17,8 @@ last_modified_at: 2023-07-19
 ---
 
 
+### [Velog](https://velog.io/@deepshadow/%EB%94%A5%EB%9F%AC%EB%8B%9D-sequential-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D-%EC%98%88%EC%B8%A1%EC%98%88%EC%A0%9C-with-%EB%B3%B4%EC%8A%A4%ED%84%B4-%EC%A7%91%EA%B0%92%EC%98%88%EC%B8%A1)
+
 ![](https://velog.velcdn.com/images/deepshadow/post/da1514bc-afb0-4013-bde4-88c03bd95bc6/image.png)
 ## 딥러닝 활용
 ![](https://velog.velcdn.com/images/deepshadow/post/988bf72b-eeb7-49f2-953e-2af026540000/image.png)
