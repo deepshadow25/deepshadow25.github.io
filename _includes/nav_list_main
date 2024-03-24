@@ -44,12 +44,44 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            
+
+        <span class="nav__sub-title">Python Library</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "NumPy" %}
+                        <li><a href="/categories/cv" class=""> Numpy  ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Torch" %}
+                        <li><a href="/categories/cv" class=""> PyTorch  ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Tensor" %}
+                        <li><a href="/categories/cv" class=""> TensorFlow  ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MM" %}
+                        <li><a href="/categories/cv" class=""> MM Series  ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+
+
         <span class="nav__sub-title">Deep Learning</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CV" %}
-                        <li><a href="/categories/cv" class=""> CV (with C++) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/cv" class=""> CV  ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -89,44 +121,7 @@
                 {% endfor %}
             </ul>
 
-        <span class="nav__sub-title">R/MATLAB/Quantum</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "R" %}
-                        <li><a href="/categories/r" class=""> R ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Matlab" %}
-                        <li><a href="/categories/matlab" class=""> 매트랩 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Quantum" %}
-                        <li><a href="/categories/r" class=""> 양자 컴퓨팅 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            
-        <span class="nav__sub-title">MLOPs</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "MLOPs" %}
-                        <li><a href="/categories/mlops" class=""> MLOPs ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "DevOPs" %}
-                        <li><a href="/categories/devops" class=""> DevOPs ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+
             
         <span class="nav__sub-title">DB</span>
             <ul>
