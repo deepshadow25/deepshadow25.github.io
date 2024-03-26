@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /index.html
   - title: "About"
-    url: /about/
+    url: /404.html/
   - title: "Category"
     url: /categories/
   - title: "Tag"
