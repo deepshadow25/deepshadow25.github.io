@@ -53,7 +53,7 @@ Encoder는 embedding-lookup하는 역할만 함
 
 shallow encoder를 다룰 때, 6강에서 deep encoder를 다룬다고 하였다
 
-## Deep Graph Encoders
+### Deep Graph Encoders
 
 GNN 기반의 “Deep” 한 방법 적용
 
@@ -74,7 +74,7 @@ ENC(v) = 그래프구조 기반의 / 다층구조 / 비선형 변환
     …
     
 
-### Modern ML Toolbox
+#### Modern ML Toolbox
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/e76fe5bd-64ef-40a9-98c4-0b48e3231bd2)
 
