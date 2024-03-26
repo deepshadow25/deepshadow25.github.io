@@ -47,9 +47,9 @@ Encoder는 embedding-lookup하는 역할만 함
 
 #### Shallow Encoders의 한계점
 
-- $O(|V|)$ parameters are needed : 복잡도가 크다
+- $O(\vert V \vert)$ parameters are needed : 복잡도가 크다
     - 모든 노드가 각자의 임베딩을 갖고 있다 (공유 x)
-    - 학습해야 하는 파라미터 수도 $|V|$ (차원 d 와 노드 개수의 곱) 에 비례
+    - 학습해야 하는 파라미터 수도 $\vert V \vert$ (차원 d 와 노드 개수의 곱) 에 비례
     - 각각 계산해야 하므로, 복잡도가 클 수밖에 없다.
 - “Transductive”하다
     - 학습 중에 못 본 노드에 대한 임베딩을 만들 수 없다 (동적 그래프에 대한 임베딩을 생성할 수 없다)
@@ -224,7 +224,7 @@ $\nabla_x f = \frac{\partial f}{\partial (W_1 x)} \frac{\partial (W_1 x)}{\parti
 위 그림과 같은 2층 선형 네트워크 구조를 예로 들면
 
 - $f(x) = g(h(x)) = W_2(W_1 x)$
-- $\mathcal{L} = \sum_{(x,y)\in \mathcal{T}}$ $||(y, f(x))||_2$ (L2 loss, minibatch $\mathcal{B}$에서)
+- $\mathcal{L} = \sum_{(x,y)\in \mathcal{T}}$ $\vert \vert (y, f(x)) \vert \vert_2$ (L2 loss, minibatch $\mathcal{B}$에서)
 - 역전파 알고리즘을 바탕으로, loss에서 시작하여 gradient를 구할 수 있다
     
     $\Theta = \{W_1, W_2\}$
@@ -263,7 +263,7 @@ $x^{l+1} =  \sigma(W_l x^{(l)} + b^l )$
 
 - V : vertex set (노드 집합)
 - A : 인접행렬 (이진으로 가정)
-- $X \in \mathbb{R}^{m \times |V|}$ : node features의 행렬
+- $X \in \mathbb{R}^{m \times \vert V \vert}$ : node features의 행렬
 - v : 집합 V에 속하는 노드
     - $N(v)$ : v 이웃 노드들의 집합
 
@@ -279,7 +279,7 @@ node features의 예
 
 - 인접행렬과 feature를 결합하고, deep neural net에 제공
     - Shallow Encoder와 유사한 문제들이 발생
-        - $O(|V|)$ parameters
+        - $O(\vert V \vert)$ parameters
         - 다른 사이즈의 그래프에 적용 안 됨
         - 노드 순서에 민감
 
@@ -360,13 +360,13 @@ GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 �
 
 $\mathbf{h}_v^0 = \mathbf{x}_v$ : 초기 0층(입력 레이어)의 임베딩은 node feature와 같다
 
-$h_v^{l+1} = \sigma(W_l \sum_{u\in N(v)} \frac{h_u^{(l)}}{|N(v)|} + B_l h_v^{l}), \forall  l \in \{ 0, ..., L-1\}$
+$h_v^{l+1} = \sigma(W_l \sum_{u\in N(v)} \frac{h_u^{(l)}}{'vert N(v) \vert} + B_l h_v^{l}), \forall  l \in \{ 0, ..., L-1\}$
 
 $z_v = h_v^{(L)}$
 
 $\sigma$ : 활성화함수 (비선형)
 
-$\sum_{u\in N(v)} \frac{\mathbf{h}_u^{(l)}}{|N(v)|}$ : 이웃 노드의 벡터 임베딩 평균
+$\sum_{u\in N(v)} \frac{\mathbf{h}_u^{(l)}}{\vert N(v) \vert}$ : 이웃 노드의 벡터 임베딩 평균
 
 $h_v^{l}$ : 노드 v의 레이어 l에서의 임베딩
 
@@ -384,14 +384,14 @@ $L$ : 전체 레이어 수 (층수)
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/0be5b115-c9bd-40f3-a1ce-bb151cbfc651)
 
-- $H^{(l)} = [h_1^{(l)}, ... , h_{|V|}^{(l)}]^T$
+- $H^{(l)} = [h_1^{(l)}, ... , h_{\vert V\vert}^{(l)}]^T$
 *l*번째 레이어의 모든 노드에 대한 vector를 병합한 행렬
 - *A* : 인접행렬
     
     $AH^{(l)}$을 통해 *v*노드의 모든 이웃 노드의 벡터의 합을 구할 수 있다.
     
 - $D$ : v노드의 이웃 노드의 수가 담긴 대각행렬
-$D^{-1}=\frac{1}{|N(v)|}$ 로, 이웃 노드 개수의 역수가 된다.
+$D^{-1}=\frac{1}{\vert N(v)\vert}$ 로, 이웃 노드 개수의 역수가 된다.
     
     ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/669399cd-61d9-4f07-98c8-f2f23dd5c694)
     
@@ -450,7 +450,7 @@ Node Proximity in the graph
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/fa5d6543-eeec-4584-81b9-cf23b850458d)
 
-모델 파라미터의 개수는 $|V|$(차원 d 와 노드 개수의 곱)에 의해 결정된다
+모델 파라미터의 개수는 $\vert V\vert$(차원 d 와 노드 개수의 곱)에 의해 결정된다
 
 또한, parameters가 공유되기 때문에 이전에 보지 못한 노드들도 생성할 수 있다.
 
