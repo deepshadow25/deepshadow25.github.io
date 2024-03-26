@@ -39,7 +39,7 @@ last_modified_at: 2024-03-27
 
 Encoder는 embedding-lookup하는 역할만 함
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/b1186aa1-dd28-4da4-b4fc-fe95e54fb1bd/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/4e13c145-839a-414f-9cf2-dc8f067618a2)
 
 #### Shallow Encoders의 한계점
 
@@ -63,7 +63,7 @@ ENC(v) = 그래프구조 기반의 / 다층구조 / 비선형 변환
 
 출력값으로 노드 임베딩과, (sub)그래프에 대한 임베딩을 얻는다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/017d0079-1f64-454d-87b1-602d38a45958/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/29226d71-0824-439d-846d-08807f84c77a)
 
 - Deep Encoder, GNN을 이용하여 해결하려는 문제
     - Node Classification : 주어진 노드의 타입 예측
@@ -76,7 +76,7 @@ ENC(v) = 그래프구조 기반의 / 다층구조 / 비선형 변환
 
 ### Modern ML Toolbox
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/0eec1e5a-88c7-43e4-bb70-b632c48a15d9/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/e76fe5bd-64ef-40a9-98c4-0b48e3231bd2)
 
 - 입력되는 이미지나 텍스트, 음성을 간단한 격자나 연결구조 그래프로, ML 역시 GNN의 일종으로 볼 수 있다
 
@@ -116,7 +116,7 @@ $\mathcal{L}$ : Loss function (L2, L1 등…)
 
 목표 : loss (cost) 가 낮은 함수, 가설(hypothesis)을 찾는다
 
-### 1.1.1 Loss Function의 예
+### Loss Function의 예
 
 분류 문제에서는 보통 Loss function을 Cross Entropy Error (CE)로 사용한다. (* 회귀 문제는 Mean Square Error (MSE)를 사용)
 
@@ -211,11 +211,11 @@ $\nabla_x f = \frac{\partial f}{\partial (W_1 x)} \frac{\partial (W_1 x)}{\parti
 
 역전파 알고리즘 또한, 이러한 chain rule을 적용하여 $\Theta$에 대한 $\mathcal{L}$을 구하는 것이다.
 
-[5강의 tree 구조](https://www.notion.so/Lecture-5-3-Collective-Classification-Belief-Propagation-663bb16b08ff48e19a5673d97b6571fe?pvs=21) 에서, 잎에서 뿌리로 거꾸로 가던 것 처럼. 출력값에서 입력값쪽으로 역으로 전파되는 것 처럼 간주하여, loss에서부터 gradient를 구해나가며, 오차를 줄여나가는 방법이라 할 수 있다.
+5강의 tree 구조에서 잎에서 뿌리로 거꾸로 가던 것 처럼. 출력값에서 입력값쪽으로 역으로 전파되는 것 처럼 간주하여, loss에서부터 gradient를 구해나가며, 오차를 줄여나가는 방법이라 할 수 있다.
 
 ### 역전파 알고리즘의 예시
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/212b7d83-eb59-4e82-a82a-a054d470f561/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/8b9aa5c3-d7b1-4b64-ab67-1edc1d980217)
 
 위 그림과 같은 2층 선형 네트워크 구조를 예로 들면
 
@@ -249,9 +249,9 @@ $x^{l+1} =  \sigma(W_l x^{(l)} + b^l )$
 - $b^l$은 l 레이어의 편향(bias)로 x에 더하면 됨
 
 
-# Lecture 6-3. Deep Learning for Graphs
+# Deep Learning for Graphs
 
-# 0. Fundamentals
+## Fundamentals
 
 ### setup
 
@@ -279,13 +279,13 @@ node features의 예
         - 다른 사이즈의 그래프에 적용 안 됨
         - 노드 순서에 민감
 
-# Local Network Neighborhoods
+## Local Network Neighborhoods
 
-## Convolutional Networks vs Graph
+### Convolutional Networks vs Graph
 
 - CNN
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/2ef15b15-cb98-41c2-82ab-8d1af2f1f3b9/Untitled.png)
+    ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/c028f2c3-1f00-4253-a47e-9f6f583c3b1c)
     
     이미지의 학습에 주로 사용되는 합성곱 신경망 (CNN) 을 그래프 개념으로 바꾸어 생각해 볼 수 있다…
     
@@ -293,11 +293,11 @@ node features의 예
     
 - Graph
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/71b338e5-1093-4cf8-a4dd-809be811b0fb/Untitled.png)
+    ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/88e57224-fb4f-49f7-9d7e-5cad7994c794)
     
     실제 그래프는 형태가 부정확할 뿐만 아니라, 순서도 불변이어서… CNN처럼 적용하기 힘들다
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/57db4985-d150-40e6-a87e-023b8e5772ac/Untitled.png)
+    ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/a82aeede-4b4e-42d3-90e8-c5c9005999ec)
     
     또한 그래프는 node, edge(link) 관계를 따져야 하니 CNN의 아이디어를 그대로 적용할 수 없다.
     
@@ -306,7 +306,7 @@ node features의 예
 
 GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 정의
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/a8ab9bd7-78bc-4855-a961-28cbb1237b7e/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/88e57224-fb4f-49f7-9d7e-5cad7994c794)
 
 ##  Aggregate Neighbors
 
@@ -315,21 +315,22 @@ GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 �
     로컬 네트워크 이웃 기반으로 노드 임베딩 생성
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/58b98d0d-53d6-4cfb-8427-08c3d905d6fa/Untitled.png)
+직관 : 이웃한 노드들로부터 받는 노드 집합체의 정보를 얻을 때 신경망을 쓰자 (아래 그림에서 여러 노드들에 연결된 사각형 부분)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/910bc387-7b3d-40f9-9009-11bd80385ade/Untitled.png)
 
-1. 직관 : 이웃한 노드들로부터 받는 노드 집합체의 정보를 얻을 때 신경망을 쓰자 
-2. 직관 : Network neighborhood를 “Computation Graph”로 정의한다
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/4720d0c5-deed-454a-8fa2-02ba5cf7d705)
+
+
+직관 : Network neighborhood를 “Computation Graph”로 정의한다
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/1bd53b77-57db-400f-a911-f26a52939bf1/Untitled.png)
+  ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/a082c6ed-4df9-45ef-b72c-01c245376fb0)
     
 
 노드마다 연결된 링크가 다르기 때문에, Network Neighborhood (Compuation Graph)도 다를 수 밖에 없다. *CNN에 일정한 합성곱이 유지되는 것과 다른데.. GCN은 패딩과 같이 오차를 보정할 요소가 없어도 되는걸까?*
 
-# Stacking Multiple Layers
+## Stacking Multiple Layers
 
-## Deep Model : Many Layers
+### Deep Model : Many Layers
 
 임의의 깊이에 대해 모델을 적용할 수 있다
 
@@ -337,19 +338,19 @@ GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 �
 - Layer-0에서의 노드 $u$의 임베딩은 입력값 $x_u$다.
 - Layer-k에서의 임베딩은 *K hop (K 단계?)* 멀리 떨어진 노드에서 정보를 얻은 것으로 볼 수 있다.
 
-### Neighborhood Aggregation
+#### Neighborhood Aggregation
 
 - 주요 구별점 
 여러 레이어를 거쳐온 서로 다른 정보를 어떻게 조합하고 다음 레이어의 정보로 보낼 수 있는가?
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/cb06f5b0-eae6-4afa-9254-84e0c2c8c2f8/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/29b905f4-1afe-4783-9e84-4946b4e5d5af)
 
 - 기본 접근법
 이웃들로부터 정보를 종합하고, 이를 신경망에 적용
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/d4dae998-242c-4bf2-8dd1-d807efc6ff56/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/1930c858-4715-4bea-b990-492d7442c501)
 
-### The Math - Deep Encoder
+#### The Math - Deep Encoder
 
 정보를 종합하고 신경망에 적용할 때의 수식은 다음과 같다
 
@@ -373,11 +374,11 @@ $L$ : 전체 레이어 수 (층수)
 
 학습에 사용되는 (학습할 수 있는) 파라미터는 $l$ 레이어에서의 가중치 행렬 $W_l$ 와, $l$ 레이어의 정보를 변환하는 데 쓰이는 행렬 $B_l$ 뿐이다.
 
-### Matrix Formulation
+#### Matrix Formulation
 
 많은 이웃 노드의 Aggregations는 (sparse) 행렬 연산으로 효율적인 표현이 가능하다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/eed08953-d4c8-4dc9-9605-43a28b90ec53/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/0be5b115-c9bd-40f3-a1ce-bb151cbfc651)
 
 - $H^{(l)} = [h_1^{(l)}, ... , h_{|V|}^{(l)}]^T$
 *l*번째 레이어의 모든 노드에 대한 vector를 병합한 행렬
@@ -388,19 +389,19 @@ $L$ : 전체 레이어 수 (층수)
 - $D$ : v노드의 이웃 노드의 수가 담긴 대각행렬
 $D^{-1}=\frac{1}{|N(v)|}$ 로, 이웃 노드 개수의 역수가 된다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/6ee6d94c-2d2d-498a-8387-0b945044eea0/Untitled.png)
+    ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/669399cd-61d9-4f07-98c8-f2f23dd5c694)
     
 - $\tilde{A} = D^{-1}A$ 는 sparse한 행렬이기 때문에 sparse matrix multiplication을 도입해 효과적인 연산이 가능하다.
 - 빨간색은 이웃 노드의 정보를 모으는 부분
 파란색은 본인 노드의 정보를 변형하는 부분이다.
 
-##Training
+### Training
 
 지도 학습 - 목적함수의 loss를 계산하여, 이를 최소화하도록 맞추어가면 됨
 
 비지도 학습 - 그래프 구조를 관찰자로 사용
 
-### 비지도 학습
+#### 비지도 학습
 
 비슷한 노드는 비슷한 임베딩을 가진다
 
@@ -422,13 +423,13 @@ Matrix Factorization
 
 Node Proximity in the graph
 
-### 지도 학습
+#### 지도 학습
 
 직접적으로 학습 과정을 감독하면서 학습 (노드 분류 문제가 특히 지도학습에 해당)
 
 - Cross Entropy를 사용하였을 때 loss function은 다음과 같다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/7c154942-e56f-4c43-9d43-b655ee154db0/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/794866b1-3038-4747-b40e-ad4b4fb4c9b3)
 
 ### Model Design
 
@@ -439,21 +440,21 @@ Node Proximity in the graph
 4. 필요한 만큼 노드들에 대한 임베딩을 생성한다.
     1. 학습하지 않을 때도 임베딩을 생성할 수 있다.
 
-## Inductive Capability
+### Inductive Capability
 
 모든 노드에서 같은 aggrgation parameters는 공유된다
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/333f96cf-396d-45ff-8331-232d41bd4d55/11f92d19-11cb-4179-88dd-14f731f6d28b/Untitled.png)
+![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/fa5d6543-eeec-4584-81b9-cf23b850458d)
 
 모델 파라미터의 개수는 $|V|$(차원 d 와 노드 개수의 곱)에 의해 결정된다
 
 또한, parameters가 공유되기 때문에 이전에 보지 못한 노드들도 생성할 수 있다.
 
-### New Graphs
+#### New Graphs
 
 예시) 조직 A에서의 단백질 상호작용 그래프 모델을 학습한 것을 바탕으로, 조직 B에서 생성된 (모은) 데이터를 바탕으로 임베딩을 생성할 수 있음.
 
-### New Nodes
+#### New Nodes
 
 많은 앱(프로그램)들에선 이전에 못 본 노드들을 계속 마주치고는 한다
 
