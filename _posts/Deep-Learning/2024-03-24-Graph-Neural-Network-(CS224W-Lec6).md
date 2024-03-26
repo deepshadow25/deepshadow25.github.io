@@ -88,11 +88,11 @@ ENC(v) = 그래프구조 기반의 / 다층구조 / 비선형 변환
     - 멀티모달 : 이미지 + 동영상 / 음성 + 텍스트 등과 같이 여러 형태의 데이터가 동시에 입력되는 형태
 
 
-# Basics of Deep Learning
+## Basics of Deep Learning
 
-## 최적화를 위한 ML
+### 최적화를 위한 ML
 
-### 지도학습
+#### 지도학습
 
 input $x$에 대하여 (정답이 있는) 라벨 $y$를 예측하는 것
 
@@ -100,7 +100,7 @@ $x$로 가능한 것은 숫자, 시퀀스(자연어, 음성), 행렬(이미지),
 
 지도학습의 task는 크게 분류(Classification)과 회귀(Regression)으로 나뉜다.
 
-## 최적화 문제의 목표
+### 최적화 문제의 목표
 
 최적화 문제의 목적함수는 아래와 같이 정의된다.
 
@@ -116,7 +116,7 @@ $\mathcal{L}$ : Loss function (L2, L1 등…)
 
 목표 : loss (cost) 가 낮은 함수, 가설(hypothesis)을 찾는다
 
-### Loss Function의 예
+#### Loss Function의 예
 
 분류 문제에서는 보통 Loss function을 Cross Entropy Error (CE)로 사용한다. (* 회귀 문제는 Mean Square Error (MSE)를 사용)
 
@@ -132,7 +132,7 @@ $\mathcal{L}$ : Loss function (L2, L1 등…)
     - $L = \sum_{(x,y)\in {T}}$ CE $(y, f(x))$
     - $\mathcal{T}$ : 학습에 사용된 모든 데이터와 라벨쌍 집합
 
-### 목적함수의 최적화 - 기울기 벡터
+#### 목적함수의 최적화 - 기울기 벡터
 
 Gradient (기울기) vector : 가장 빠르게 증가하는 방향과 비율…
 
@@ -142,9 +142,9 @@ $$
 
 각 파라미터 $\Theta_1, \Theta_2, ...$ 에 대해 편미분
 
-## 신경망 함수와 기울기
+### 신경망 함수와 기울기
 
-### 기울기 감소법(경사하강법.Gradient Descent)
+#### 기울기 감소법(경사하강법.Gradient Descent)
 
 우리는 증가가 아닌, “감소” 에 관심있다 (목적함수의 최솟값이 우리의 목표다)
 
@@ -156,7 +156,7 @@ $$
 
 LR Scheduling 기법으로 조정할 수 있다.
 
-### **1.2.2 SGD (Stochastic Gradient Descent)**
+#### ** SGD (Stochastic Gradient Descent)**
 
 기존 GD의 문제점 (급격한 감소로 인한 데이터 누락, 소실 등) 을 방지하기 위한 한 방법
 
@@ -176,7 +176,7 @@ LR Scheduling 기법으로 조정할 수 있다.
 
 Adam, Adagrad, Adadelta, RMSprop 등이 SGD를 향상시킨 방법.
 
-### Neural Network Function
+#### Neural Network Function
 
 목적함수는 아래와 같다
 
@@ -199,9 +199,9 @@ $$
     $\nabla_{W}f = W^T$
     
 
-## 역전파 알고리즘과 비선형성
+### 역전파 알고리즘과 비선형성
 
-### 역전파 알고리즘
+#### 역전파 알고리즘
 
 - $f(x) = W_2(W_1 x)$, $\Theta = \{W_1, W_2\}$
 
@@ -213,7 +213,7 @@ $\nabla_x f = \frac{\partial f}{\partial (W_1 x)} \frac{\partial (W_1 x)}{\parti
 
 5강의 tree 구조에서 잎에서 뿌리로 거꾸로 가던 것 처럼. 출력값에서 입력값쪽으로 역으로 전파되는 것 처럼 간주하여, loss에서부터 gradient를 구해나가며, 오차를 줄여나가는 방법이라 할 수 있다.
 
-### 역전파 알고리즘의 예시
+#### 역전파 알고리즘의 예시
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/8b9aa5c3-d7b1-4b64-ab67-1edc1d980217)
 
@@ -228,7 +228,7 @@ $\nabla_x f = \frac{\partial f}{\partial (W_1 x)} \frac{\partial (W_1 x)}{\parti
 
 $\frac{\partial \mathcal{L}}{\partial W_2 } =\frac{\partial \mathcal{L}}{\partial f} \frac{\partial f}{\partial W_2 } , \frac{\partial \mathcal{L}}{\partial W_1 } =\frac{\partial \mathcal{L}}{\partial f} \frac{\partial f}{\partial W_2 }\frac{\partial W_2}{\partial W_1 }$
 
-### 비선형성
+#### 비선형성
 
 $f(x)$는 여전히 선형 함수이다. 비선형성을 추가시킬 요소가 필요하다. 이러한 요소는 “활성화 함수(Activate Function)”라 불리며, 대표적으로 ReLU와 Sigmoid가 있다.
 
@@ -237,7 +237,7 @@ $f(x)$는 여전히 선형 함수이다. 비선형성을 추가시킬 요소가 
 
 이외에도 여러 함수들이 있다.
 
-### 다층 퍼셉트론 (Multi-Layer Perceptron, MLP)
+#### 다층 퍼셉트론 (Multi-Layer Perceptron, MLP)
 
 다층 퍼셉트론의 각 층은 선형 변환과 비선형성을 조합한 것이다.
 
@@ -249,11 +249,11 @@ $x^{l+1} =  \sigma(W_l x^{(l)} + b^l )$
 - $b^l$은 l 레이어의 편향(bias)로 x에 더하면 됨
 
 
-# Deep Learning for Graphs
+## Deep Learning for Graphs
 
-## Fundamentals
+### Fundamentals
 
-### setup
+#### setup
 
 그래프 G를 가정
 
@@ -271,7 +271,7 @@ node features의 예
     - 지시자 벡터 (노드의 one-hot encoding)
     - 상수 1의 벡터 : $[1,1,...,1]$
 
-### A Naive Approach
+#### A Naive Approach
 
 - 인접행렬과 feature를 결합하고, deep neural net에 제공
     - Shallow Encoder와 유사한 문제들이 발생
@@ -279,9 +279,9 @@ node features의 예
         - 다른 사이즈의 그래프에 적용 안 됨
         - 노드 순서에 민감
 
-## Local Network Neighborhoods
+### Local Network Neighborhoods
 
-### Convolutional Networks vs Graph
+#### Convolutional Networks vs Graph
 
 - CNN
     
@@ -302,13 +302,13 @@ node features의 예
     또한 그래프는 node, edge(link) 관계를 따져야 하니 CNN의 아이디어를 그대로 적용할 수 없다.
     
 
-### Graph Convolutional Networks
+#### Graph Convolutional Networks
 
 GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 정의
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/88e57224-fb4f-49f7-9d7e-5cad7994c794)
 
-##  Aggregate Neighbors
+###  Aggregate Neighbors
 
 1. 핵심 아이디어 
     
@@ -328,9 +328,9 @@ GCN의 아이디어 : 노드의 이웃(Neighborhood)을 계산할 그래프로 �
 
 노드마다 연결된 링크가 다르기 때문에, Network Neighborhood (Compuation Graph)도 다를 수 밖에 없다. *CNN에 일정한 합성곱이 유지되는 것과 다른데.. GCN은 패딩과 같이 오차를 보정할 요소가 없어도 되는걸까?*
 
-## Stacking Multiple Layers
+### Stacking Multiple Layers
 
-### Deep Model : Many Layers
+#### Deep Model : Many Layers
 
 임의의 깊이에 대해 모델을 적용할 수 있다
 
@@ -395,13 +395,13 @@ $D^{-1}=\frac{1}{|N(v)|}$ 로, 이웃 노드 개수의 역수가 된다.
 - 빨간색은 이웃 노드의 정보를 모으는 부분
 파란색은 본인 노드의 정보를 변형하는 부분이다.
 
-### Training
+#### Training
 
 지도 학습 - 목적함수의 loss를 계산하여, 이를 최소화하도록 맞추어가면 됨
 
 비지도 학습 - 그래프 구조를 관찰자로 사용
 
-#### 비지도 학습
+** 비지도 학습 **
 
 비슷한 노드는 비슷한 임베딩을 가진다
 
@@ -423,7 +423,7 @@ Matrix Factorization
 
 Node Proximity in the graph
 
-#### 지도 학습
+** 지도 학습 **
 
 직접적으로 학습 과정을 감독하면서 학습 (노드 분류 문제가 특히 지도학습에 해당)
 
@@ -440,7 +440,7 @@ Node Proximity in the graph
 4. 필요한 만큼 노드들에 대한 임베딩을 생성한다.
     1. 학습하지 않을 때도 임베딩을 생성할 수 있다.
 
-### Inductive Capability
+#### Inductive Capability
 
 모든 노드에서 같은 aggrgation parameters는 공유된다
 
@@ -450,11 +450,11 @@ Node Proximity in the graph
 
 또한, parameters가 공유되기 때문에 이전에 보지 못한 노드들도 생성할 수 있다.
 
-#### New Graphs
+** New Graphs **
 
 예시) 조직 A에서의 단백질 상호작용 그래프 모델을 학습한 것을 바탕으로, 조직 B에서 생성된 (모은) 데이터를 바탕으로 임베딩을 생성할 수 있음.
 
-#### New Nodes
+** New Nodes **
 
 많은 앱(프로그램)들에선 이전에 못 본 노드들을 계속 마주치고는 한다
 
