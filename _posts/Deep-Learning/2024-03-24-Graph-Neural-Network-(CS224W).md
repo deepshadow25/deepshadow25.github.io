@@ -4,6 +4,8 @@ title:  "CS224W Lecture 6 : Graph Neural Network"
 categories:
   - Recom
   - Machine
+  - Math
+  - Seminar
  
 tags:
   - Machine-Learning
@@ -11,6 +13,7 @@ tags:
   - Graph-Network
   - Graph-Neural-Network
   - Recommend-System
+  - Discrete Mathematics
 
 toc: true
 toc_sticky: true
