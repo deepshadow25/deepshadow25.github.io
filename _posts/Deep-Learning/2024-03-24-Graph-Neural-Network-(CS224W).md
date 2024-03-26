@@ -446,11 +446,11 @@ Node Proximity in the graph
 
 또한, parameters가 공유되기 때문에 이전에 보지 못한 노드들도 생성할 수 있다.
 
-** New Graphs **
+1. New Graphs
 
 예시) 조직 A에서의 단백질 상호작용 그래프 모델을 학습한 것을 바탕으로, 조직 B에서 생성된 (모은) 데이터를 바탕으로 임베딩을 생성할 수 있음.
 
-** New Nodes **
+2. New Nodes
 
 많은 앱(프로그램)들에선 이전에 못 본 노드들을 계속 마주치고는 한다
 
