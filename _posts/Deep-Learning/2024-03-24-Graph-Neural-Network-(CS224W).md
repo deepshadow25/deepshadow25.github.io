@@ -399,7 +399,7 @@ $D^{-1}=\frac{1}{\vert N(v)\vert}$ 로, 이웃 노드 개수의 역수가 된다
 
 비지도 학습 - 그래프 구조를 관찰자로 사용
 
-1. 비지도 학습
+- 비지도 학습
 
 비슷한 노드는 비슷한 임베딩을 가진다
 
@@ -419,11 +419,11 @@ Matrix Factorization
 
 Node Proximity in the graph
 
-2. 지도 학습
+- 지도 학습
 
 직접적으로 학습 과정을 감독하면서 학습 (노드 분류 문제가 특히 지도학습에 해당)
-
-- Cross Entropy를 사용하였을 때 loss function은 다음과 같다.
+  
+   Cross Entropy를 사용하였을 때 loss function은 다음과 같다.
 
 ![image](https://github.com/deepshadow25/CS224W---Machine-Learning-with-Graphs/assets/115054681/794866b1-3038-4747-b40e-ad4b4fb4c9b3)
 
@@ -446,11 +446,11 @@ Node Proximity in the graph
 
 또한, parameters가 공유되기 때문에 이전에 보지 못한 노드들도 생성할 수 있다.
 
-1. New Graphs
+- New Graphs
 
 예시) 조직 A에서의 단백질 상호작용 그래프 모델을 학습한 것을 바탕으로, 조직 B에서 생성된 (모은) 데이터를 바탕으로 임베딩을 생성할 수 있음.
 
-2. New Nodes
+- New Nodes
 
 많은 앱(프로그램)들에선 이전에 못 본 노드들을 계속 마주치고는 한다
 
