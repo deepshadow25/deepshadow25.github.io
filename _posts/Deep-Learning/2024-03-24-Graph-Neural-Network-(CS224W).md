@@ -108,9 +108,7 @@ $x$로 가능한 것은 숫자, 시퀀스(자연어, 음성), 행렬(이미지),
 
 최적화 문제의 목적함수는 아래와 같이 정의된다.
 
-$$
-\min_{\Theta} \mathcal{L}(y, f(x))
-$$
+$\min_{\Theta} \mathcal{L}(y, f(x))$
 
 $\Theta$ : 최적화시킬 파라미터의 집합
 
@@ -140,9 +138,7 @@ $\mathcal{L}$ : Loss function (L2, L1 등…)
 
 Gradient (기울기) vector : 가장 빠르게 증가하는 방향과 비율…
 
-$$
-\nabla_{\Theta}\mathcal{L} = (\frac{\partial \mathcal{L}}{\partial \Theta_1}, \frac{\partial \mathcal{L}}{\partial \Theta_2}, ...)
-$$
+$\nabla_{\Theta}\mathcal{L} = (\frac{\partial \mathcal{L}}{\partial \Theta_1}, \frac{\partial \mathcal{L}}{\partial \Theta_2}, ...)$
 
 각 파라미터 $\Theta_1, \Theta_2, ...$ 에 대해 편미분
 
@@ -184,9 +180,7 @@ Adam, Adagrad, Adadelta, RMSprop 등이 SGD를 향상시킨 방법.
 
 목적함수는 아래와 같다
 
-$$
-\min_{\Theta} \mathcal{L}(y, f(x))
-$$
+$\min_{\Theta} \mathcal{L}(y, f(x))$
 
 딥러닝에서 함수 $\mathcal{f}$는 매우 복잡하다
 
@@ -409,9 +403,7 @@ $D^{-1}=\frac{1}{\vert N(v)\vert}$ 로, 이웃 노드 개수의 역수가 된다
 
 비슷한 노드는 비슷한 임베딩을 가진다
 
-$$
-\mathcal{L} = \sum_{z_u,z_v} \mathbf{CE}(y_{u,v},\mathbf{DEC}(z_u,z_v))
-$$
+$\mathcal{L} = \sum_{z_u,z_v} \mathbf{CE}(y_{u,v},\mathbf{DEC}(z_u,z_v))$
 
 $y_{u,v}=1$일 때 노드 u와 v는 similar하다 한다.
 
