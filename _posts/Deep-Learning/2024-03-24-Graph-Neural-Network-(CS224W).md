@@ -160,7 +160,7 @@ $$
 
 LR Scheduling 기법으로 조정할 수 있다.
 
-#### ** SGD (Stochastic Gradient Descent)**
+#### SGD (Stochastic Gradient Descent)
 
 기존 GD의 문제점 (급격한 감소로 인한 데이터 누락, 소실 등) 을 방지하기 위한 한 방법
 
@@ -405,7 +405,7 @@ $D^{-1}=\frac{1}{\vert N(v)\vert}$ 로, 이웃 노드 개수의 역수가 된다
 
 비지도 학습 - 그래프 구조를 관찰자로 사용
 
-** 비지도 학습 **
+1. 비지도 학습
 
 비슷한 노드는 비슷한 임베딩을 가진다
 
@@ -427,7 +427,7 @@ Matrix Factorization
 
 Node Proximity in the graph
 
-** 지도 학습 **
+2. 지도 학습
 
 직접적으로 학습 과정을 감독하면서 학습 (노드 분류 문제가 특히 지도학습에 해당)
 
