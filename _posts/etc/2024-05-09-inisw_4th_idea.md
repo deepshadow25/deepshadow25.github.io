@@ -1,0 +1,74 @@
+--- 
+title : "지능정보 아이디어 경진대회 참여 후기"
+
+categories : 
+  - Conference
+tags :
+  - Conference
+  - Blog
+ 
+date : 2024-05-03
+last-modified-date : 2024-05-09
+---
+
+3월부터 시작했던 고려대 지능정보 아카데미 4기.
+
+그 과정의 중간평가와 같은 아이디어 경진대회에 참여하기 위해 한국경제신문 본사에 있는 한국경제신문 아카데미를 방문했다...
+
+
+![](https://private-user-images.githubusercontent.com/115054681/329052568-d7d7c2c3-6864-4508-8456-13e1ad2e378f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDM0MTEsIm5iZiI6MTcxNTIwMzExMSwicGF0aCI6Ii8xMTUwNTQ2ODEvMzI5MDUyNTY4LWQ3ZDdjMmMzLTY4NjQtNDUwOC04NDU2LTEzZTFhZDJlMzc4Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwOFQyMTE4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MWEzMTkyOThkODBmZjA5YWVhNWFjOTQwNmZjNzRiOTk4ZDEzYzg0ZTFmOGQ2MDQ4M2FkOGNiZTgzZWQyZDkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.f3Sucvpr0DD6F-8rtLDWLUgSELw0R_kGa681S6Tmm8Y)
+
+![](https://private-user-images.githubusercontent.com/115054681/329052582-6b9dde6f-d847-4872-91ad-6672ae9559cf.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDM0MTEsIm5iZiI6MTcxNTIwMzExMSwicGF0aCI6Ii8xMTUwNTQ2ODEvMzI5MDUyNTgyLTZiOWRkZTZmLWQ4NDctNDg3Mi05MWFkLTY2NzJhZTk1NTljZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwOFQyMTE4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZDE1MGI1ZGFmMjk2NDczOTg3OTgwNmIwMTMxZWU3MGU4MWEwMDRiM2ZlYjFiYjk4MjYxNGRkMDIyZWZmNmRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KpaC96-y7pNEvFTEZt46iKriEeo51dPeeAVj6X-U2Zk)
+
+이 과정에 참여하는 나로써는 뭔가...
+
+언론사에서 주는 밥도 기대되었고, 나는 발표를 맡았기에 더 떨리는 감도 없잖아 있던 것 같다
+
+![](https://private-user-images.githubusercontent.com/115054681/329052617-585e7a24-6424-40b1-bedd-cd6eadf7dc47.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDM0MTEsIm5iZiI6MTcxNTIwMzExMSwicGF0aCI6Ii8xMTUwNTQ2ODEvMzI5MDUyNjE3LTU4NWU3YTI0LTY0MjQtNDBiMS1iZWRkLWNkNmVhZGY3ZGM0Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwOFQyMTE4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTBiY2ExMjFhZGU1ZWZlMDJiMTYwMGI2NWNhY2QzNDQzMzk5Yzk5NTE3ZjQ1ZTA4MWY4ZmU4MGI5Y2QyYTk3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bfmJLodPYn_aJeAASvXAIrZpiyYvF83hmN2DK6nF7fE)
+
+들어갔더니 이런 걸 주더라 ㅋㅋㅋ
+
+
+전체적으로 사진은 밥이랑 간식, 상 받았던 것 말고는 안 찍었다
+
+사실 가서 발표 준비하느라... 많이 떨리기도 하고 걱정도 되었었다
+
+주제를 조금씩 수정해나가던 것 때문인지, 발표를 준비하기에 시간이 부족했고 또
+
+발표는 학교 수업과는 분명히 다르다는걸 나부터 잘 알고 있으니까......
+
+질의응답 (이라 쓰고 피드백이라 하는 것) 을 거쳐서, 무엇이 부족한지도 알게 되는 시간이었다
+
+![](https://private-user-images.githubusercontent.com/115054681/329052609-6292742e-cfee-4934-acc8-0f1167506f7e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDM0MTEsIm5iZiI6MTcxNTIwMzExMSwicGF0aCI6Ii8xMTUwNTQ2ODEvMzI5MDUyNjA5LTYyOTI3NDJlLWNmZWUtNDkzNC1hY2M4LTBmMTE2NzUwNmY3ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwOFQyMTE4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjVhMmUwZWNiNzFiZWNhMDM3ZDlkMjlkNzI0ZjZjOWJjODIxN2I5NTNlZDFmMjg5MTA0OWJlY2UwOTY5NDQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HqJ0kvwUlZuH9sBl7WFaWgahdmkiEfoHSXimkpRAxHU)
+
+긴장을 많이 해서인지, 유독 간식을 많이 먹게 된 것 같다
+
+같은 조에 있던 친구들은 내가 머리를 평소보다 더 쓰게 되니 그렇다라고는 하지만......
+
+그냥 긴장하기도 하고 아침을 따로 안 챙겨먹던 나여서 그런가 싶기도 하다.
+
+![](https://private-user-images.githubusercontent.com/115054681/329052598-c13bbe13-6891-443a-b2eb-864fc4d505cb.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUyMDM0MTEsIm5iZiI6MTcxNTIwMzExMSwicGF0aCI6Ii8xMTUwNTQ2ODEvMzI5MDUyNTk4LWMxM2JiZTEzLTY4OTEtNDQzYS1iMmViLTg2NGZjNGQ1MDVjYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUwOFQyMTE4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTUxOGUyYzJiMjRkNTBiYWQ2NGEyNTVhYzAyMjkzNDQ3ZjQwYjI3MzYxYWE3ZTU2MTI1OTZjMjk3ZWU4Y2U2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.o9D1YNRLGNcO8dVsLaUSWY6A0zcmaBDG3lrC07dTYVc)
+
+하지만 생각해보니
+
+사실 점심을 거의 안 먹었다.
+
+발표하는데 속에 부담될까봐...도 있었지만 솔직히, 한경 밥이 별로였다.
+
+스파게티가 메인디쉬로 나온 것 같지만 그냥 평범했고
+
+솔직히 나는 (저 중에서는) 가지볶음이 제일 맛있었다 ㅡ.ㅡ
+
+그래도 음료도 근처 카페에서 무료로 먹을 수 있게 해주고
+
+한경 측에서 우리를 그래도 좀 신경써주긴 한 것 같다고 생각은 드는데...
+
+다음에 최종 대회때는 나도 인터뷰 한 번 해볼까...? 하는 생각도 조금은 들었다.
+
+
+
+
+
+
+
+[맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
