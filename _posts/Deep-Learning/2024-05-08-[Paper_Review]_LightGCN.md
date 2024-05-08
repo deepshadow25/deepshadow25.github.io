@@ -45,7 +45,7 @@ Part2
 
 - LightGCN이 기존 GCN, NGCF 대비 추천에 왜 더 뛰어난지, LightGCN 논문에서 가정했던 바에 대한 더 매끄러운 설명 필요
 
-![참조 (LightGCN in PaperswithCode)](https://paperswithcode.com/paper/lightgcn-simplifying-and-powering-graph)
+[참조 (LightGCN in PaperswithCode)](https://paperswithcode.com/paper/lightgcn-simplifying-and-powering-graph)
 
 
     오류나 틀린 부분이 있을 경우 언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다!
