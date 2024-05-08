@@ -24,7 +24,9 @@ last-modified-date : 2024-05-09
 
 언론사에서 주는 밥도 기대되었고, 나는 발표를 맡았기에 더 떨리는 감도 없잖아 있던 것 같다
 
-![KakaoTalk_20240509_055239880](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/456f1135-333d-434d-b408-1867b50060bf)
+
+![KakaoTalk_20240509_055239880_05](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/0861ea7b-37c5-465d-b620-0209a6e7e7b2)
+
 
 들어갔더니 이런 걸 주더라 ㅋㅋㅋ
 
@@ -47,7 +49,7 @@ last-modified-date : 2024-05-09
 
 그냥 긴장하기도 하고 아침을 따로 안 챙겨먹던 나여서 그런가 싶기도 하다.
 
-![KakaoTalk_20240509_055239880_05](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/0861ea7b-37c5-465d-b620-0209a6e7e7b2)
+![KakaoTalk_20240509_055239880](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/456f1135-333d-434d-b408-1867b50060bf)
 
 
 하지만 생각해보니
