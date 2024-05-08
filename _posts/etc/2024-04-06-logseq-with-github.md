@@ -2,7 +2,7 @@
 title : "Logseq Github와 연동시키기"
 
 categories : 
-  - Conference
+  - Blog
 tags :
   - etc
   - Blog
