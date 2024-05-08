@@ -15,15 +15,16 @@ last-modified-date : 2024-05-09
 
 그 과정의 중간평가와 같은 아이디어 경진대회에 참여하기 위해 한국경제신문 본사에 있는 한국경제신문 아카데미를 방문했다...
 
-![KakaoTalk_20240509_055239880_01](https://github.com/deepshadow25/github.io-images/assets/115054681/043c79de-3f83-4d26-80e9-03c6283cae03)
+![](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/adccd663-8faf-4536-b364-423008146335))
 
-![KakaoTalk_20240509_055239880_02](https://github.com/deepshadow25/github.io-images/assets/115054681/41d76539-30e5-46d3-a933-e9e4cac39c26)
+![](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/dae55122-c635-476c-8c24-6667e97b742c))
+
 
 이 과정에 참여하는 나로써는 뭔가...
 
 언론사에서 주는 밥도 기대되었고, 나는 발표를 맡았기에 더 떨리는 감도 없잖아 있던 것 같다
 
-![KakaoTalk_20240509_055239880](https://github.com/deepshadow25/github.io-images/assets/115054681/c6a70d98-90ad-4ac1-9acb-76c028e4a861)
+![KakaoTalk_20240509_055239880](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/456f1135-333d-434d-b408-1867b50060bf)
 
 들어갔더니 이런 걸 주더라 ㅋㅋㅋ
 
@@ -38,7 +39,7 @@ last-modified-date : 2024-05-09
 
 질의응답 (이라 쓰고 피드백이라 하는 것) 을 거쳐서, 무엇이 부족한지도 알게 되는 시간이었다
 
-![KakaoTalk_20240509_055239880_07](https://github.com/deepshadow25/github.io-images/assets/115054681/d61781c3-e73a-4fda-98bd-ee559be124f4)
+![KakaoTalk_20240509_055239880_07](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/17874132-b6f6-4f20-9375-ea49b61e0437)
 
 긴장을 많이 해서인지, 유독 간식을 많이 먹게 된 것 같다
 
@@ -46,7 +47,8 @@ last-modified-date : 2024-05-09
 
 그냥 긴장하기도 하고 아침을 따로 안 챙겨먹던 나여서 그런가 싶기도 하다.
 
-![KakaoTalk_20240509_055239880_05](https://github.com/deepshadow25/github.io-images/assets/115054681/4104d8a1-4b55-4693-9911-99903ca4cfeb)
+![KakaoTalk_20240509_055239880_05](https://github.com/deepshadow25/deepshadow25.comments/assets/115054681/0861ea7b-37c5-465d-b620-0209a6e7e7b2)
+
 
 하지만 생각해보니
 
