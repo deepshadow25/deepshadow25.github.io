@@ -1,0 +1,34 @@
+---
+title:  "[Paper Review] FairRec : Two-Sides Fairness for Personalized Recomendations in Two-Sided Platforms (2020)" 
+ 
+categories:
+  - Recom
+  - Machine
+  - Math
+  - Seminar
+ 
+tags:
+  - Machine-Learning
+  - Deep-Learning
+  - Recommend-System
+  - Discrete Mathematics
+
+toc: true
+toc_sticky: true
+use_math: true
+
+date: 2024-05-27
+last_modified_at: 2024-05-30
+---
+
+2020년에 발표된 추천 시스템 논문입니다.
+
+2021년에 동명의 뉴스 추천 알고리즘
+
+
+
+
+
+    오류나 틀린 부분이 있을 경우 언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다!
+
+[맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
